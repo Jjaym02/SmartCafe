@@ -1,0 +1,14 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "email": "admin@smartcafe.com"
+  },
+  {
+    "username": "user",
+    "password": "user123",
+    "role": "user",
+    "email": "user@smartcafe.com"
+  }
+]
