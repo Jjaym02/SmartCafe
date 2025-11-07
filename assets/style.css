@@ -191,22 +191,7 @@ h2 {
     font-size: 1.6rem;
 }
 
-
-/* === MAIN CONTENT === */
-
-main {
-    flex: 1;
-    padding: 100px 20px 20px;
-    /* top padding for fixed navbar */
-    text-align: center;
-}
-
-h2 {
-    color: #6b4f4f;
-    margin-bottom: 15px;
-}
-
-/* === MENU GRID - FIXED 5 ITEMS PER ROW === */
+/* === MENU GRID  === */
 
 .menu-grid {
     display: grid;
@@ -473,7 +458,7 @@ tr:hover td {
     color: #4a3c3c;
 }
 
-
+/* === ABOUT === */
 .responsive-container-block {
     display: flex;
     flex-wrap: wrap;
@@ -786,4 +771,5 @@ footer {
     .profile-row span {
         margin-top: 5px;
     }
+
 }
